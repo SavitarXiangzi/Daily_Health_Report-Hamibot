@@ -1,0 +1,14 @@
+[
+  {
+    "name": "userPwd",
+    "type": "text",
+    "label": "锁屏密码",
+    "help": "目前仅支持图案解锁"
+  },
+  {
+    "name": "userEmail",
+    "type": "text",
+    "label": "邮箱",
+    "help": "用于接收打卡信息的邮箱"
+  }
+]
